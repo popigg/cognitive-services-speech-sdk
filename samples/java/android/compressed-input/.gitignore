@@ -8,3 +8,7 @@
 /build
 /captures
 .externalNativeBuild
+gst-build-*/
+jni/
+.cxx/
+app/src/org/freedesktop/gstreamer/GStreamer.java
